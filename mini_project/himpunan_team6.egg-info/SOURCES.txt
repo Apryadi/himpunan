@@ -1,0 +1,8 @@
+setup.py
+himpunan_team6.egg-info/PKG-INFO
+himpunan_team6.egg-info/SOURCES.txt
+himpunan_team6.egg-info/dependency_links.txt
+himpunan_team6.egg-info/entry_points.txt
+himpunan_team6.egg-info/top_level.txt
+mini_project/__init__.py
+mini_project/main.py
